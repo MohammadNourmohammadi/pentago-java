@@ -3,6 +3,7 @@
 ## Description
 
 This a Pentago game code with java.
+Foe more detail please see html documents in docs file.
 
 
 ### Dependencies
